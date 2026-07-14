@@ -1,5 +1,7 @@
 ### Day 1
+
 ```print("This is Day 1 of progress")```
+
 ## Expressions
 An **expression** is a piece of code that produces a value.
 
@@ -9,7 +11,7 @@ The expression 2 + 2 produces the value 4`
 
 # Syntax
 
-**Syntax** means the grammar or rules of a programming language.
+**Syntax** means a grammar error it's the rules of a programming language.
 
 Just like human languages have grammar rules programming languages have rules that tell the computer how code should be written.
 
@@ -35,7 +37,7 @@ Comments are written for humans, not computers.
 
 # Multi-Line Strings
 
-Multi-line strings start and end with **three quotation marks**: They allow you to write text across multiple lines.
+Multi-line strings start and end with **three quotation marks**: they allow you to write text across multiple lines.
 
 # New Line Indicator (`\n`)
 
