@@ -1,4 +1,4 @@
-The `input()` function is designed to take input from the user, and whatever it takes from the user, it will automatically convert it into a string.
+The `input()` function is designed to take input from the user and whatever it takes from the user it will automatically convert it into a string.
 
 A variable is a method of storing data for reuse.
 
