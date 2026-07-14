@@ -1,5 +1,5 @@
 ### Day 1
-`print("This is Day 1 of progress")`
+```print("This is Day 1 of progress")```
 ## Expressions
 An **expression** is a piece of code that produces a value.
 
